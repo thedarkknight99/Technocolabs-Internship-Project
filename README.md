@@ -1,2 +1,2 @@
 # Technocolabs-Internship-Project
-Data Science Internhip
+Data Science Internship
